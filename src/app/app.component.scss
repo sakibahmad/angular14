@@ -3,8 +3,13 @@ header {
     
 }
 
-h1 {
+li {
     color: aliceblue;
-    font-family: Arial;
-    flex-direction: row;
+    list-style: none;
+    display: inline;
+    padding: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: sans-serif;
+    line-height: 4rem;
 }
